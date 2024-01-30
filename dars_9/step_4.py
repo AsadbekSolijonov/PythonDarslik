@@ -1,0 +1,8 @@
+rev_son = list(range(20, 1, -1))
+sonlar = list(range(1, 20))
+toq_son = list(range(1, 20, 2))
+juft_son = list(range(2, 20, 2))
+print(f'tekari: {rev_son}')
+print(f'Sonlar: {sonlar}')
+print(f'Toq son: {toq_son}')
+print(f"Juft son: {juft_son}")
