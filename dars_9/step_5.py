@@ -12,7 +12,6 @@ for son in range(start, end + 1):
 print(f'Juft son: {juft_son}')
 print(f'Toq son: {toq_son}')
 
-
 # Uyga vazifa:
 # 2 va 5
 # 3 va 4
